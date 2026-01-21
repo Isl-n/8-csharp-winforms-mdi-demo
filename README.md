@@ -8,8 +8,8 @@ A simple Windows Forms application demonstrating:
 
 ## 🖥️ Preview
 
-![File Menu](screenshots/file-tab.png)
-![Exit Shortcut](screenshots/exit-shortcut.png)
+![File Menu](MDIsample/screenshots/file-tab.png)
+![Exit Shortcut](MDIsample/screenshots/exit-shortcut.png)
 
 
 ## ✨ Features
